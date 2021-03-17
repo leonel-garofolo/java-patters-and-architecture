@@ -1,4 +1,4 @@
-package lg.grasp.expert;
+package lg.grasp.patters;
 
 public class LineaDeVenta {
 
